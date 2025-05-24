@@ -1,7 +1,23 @@
 gsap.to(".title", {}); 
 
 const messages = [
-  "Te amo ❤️",
+  "Te amo mi Kate❤️",
+  "enamorado de ti guapa",
+  "Mi niña ❤️ ",
+  "Mi Bonita ❤️",
+  "Mi paz en este mundo loco 🌍🕊️",
+  "Amarte es mi superpoder 🦸‍♂️❤️",
+  "Eres mi canción favorita 🎶💕",
+  "No necesito más, solo a ti 😘",
+  "Tu sonrisa ilumina mi vida 🌟😄",
+  "Desde que llegaste, todo cambió 💘",
+  "Mi corazón late por ti ❤️🔊",
+  "A tu lado, todo tiene sentido 🧭💑",
+  "Tu amor me hace volar 🕊️💓",
+  "Solo tú sabes cómo hacerme feliz 😊❤️",
+  "Amarte es lo mejor que me ha pasado 💝",
+  "Me encantas más cada día 💗",
+  "Tú eres mi persona favorita 💑🌟",
   "Eres mi todo 💖",
   "Mi cielo 🌈",
   "Mi vida 🥰",
@@ -13,19 +29,18 @@ const messages = [
   "Amor eterno 💍",
   "Eres mi alegría 😊",
   "Mi razón de sonreír 😄",
-  "Juntos por siempre ♾️",
   "Eres mi inspiración ✨",
+  "Esto es para ver si leyo todo jaja... me envias un Hola Sebas ",
   "Mi refugio seguro 🏡",
   "Sin ti no soy nada 💔",
-  "Mi mejor aventura 🚀",
-  "Cada día más enamorado/a 💞",
+  "Cada día más enamorado 💞",
   "Eres mi sueño hecho realidad 🌟",
   "Gracias por existir 🙏",
   "Eres mi todo y más 💝",
   "Contigo soy feliz 😍",
-  "Mi alma gemela 🔗",
   "Eres mi felicidad diaria 🌸",
-  "Por siempre tuyo/a 💌"
+  "Por siempre tuyo 💌"
+];
 ];
 
 
