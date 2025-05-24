@@ -41,7 +41,6 @@ const messages = [
   "Eres mi felicidad diaria 🌸",
   "Por siempre tuyo 💌"
 ];
-];
 
 
 let messageIndex = 0;
