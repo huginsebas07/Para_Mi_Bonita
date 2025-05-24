@@ -78,7 +78,7 @@ button.addEventListener("click", () => {
       y: randomY,
       opacity: 0,
       scale: 1.5,
-      duration: 4,
+      duration: 10,
       ease: "power2.out",
       onComplete: () => bubble.remove()
     }
